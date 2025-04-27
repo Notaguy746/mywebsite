@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #000000fd;
+    overflow: hidden;
+    }
+    li {
+        color:white;
+    float: left;
+    }
+    li a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;
+    display: block;
+    }
+    
+    li a:hover {
+        background-color: #53863f;
+    }
+    .hia {
+        float: right;
+    }
+    body {
+        background-image: radial-gradient(circle, #2200ff, #00ffdd);
+    }
